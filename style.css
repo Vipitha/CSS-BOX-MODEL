@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(213, 203, 245);
+  display: grid;
+  place-items: center;
+}
+
+
+.profile-card {
+  font-size: 16px;
+  padding: 30px;
+  margin: 150px;
+  background-color: rgb(228, 239, 247);
+  text-align: center;
+  border-radius: 50px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  width: 300px;
+}
+.profile-card img {
+    width: 250px; ;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 70%;
+   
+    
+
+
+   
+   
+}
